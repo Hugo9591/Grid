@@ -1,0 +1,45 @@
+body{
+    background: #f0f3f5;
+    color: #fff;
+}
+
+header{
+    text-align: center;
+    background: #74c1f5;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.main-content{
+    padding-bottom: 20px;
+        main{
+            background: #fff;
+            color: #424242;
+            padding: 20px ;
+        }
+}
+
+aside {
+	background: #6e6e6e;
+	padding: 60px 0;
+	color: #0d47a1;
+}
+
+.widgets {
+	margin-bottom: 20px;
+    .columna{
+        text-align: center;
+    }
+    div {
+        background: #d0d32a;
+        color: #fff;
+        padding: 20px;
+    }
+}
+
+
+footer {
+    text-align: center;
+	padding: 20px 0;
+	background: #1e1e1e;
+}
